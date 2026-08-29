@@ -35,3 +35,11 @@ RTL Design → Testbench Development → Functional Simulation → Waveform Anal
 - Xilinx Vivado
 - Functional Simulation
 - GitHub
+- 
+## Simulation Results
+
+The 4-bit ALU was functionally verified using a Verilog testbench
+in Xilinx Vivado. All eight operations were simulated and verified
+through waveform analysis.
+
+![ALU Simulation Waveform](simulation/waveform.png)

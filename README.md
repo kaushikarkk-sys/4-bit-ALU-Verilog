@@ -43,3 +43,4 @@ in Xilinx Vivado. All eight operations were simulated and verified
 through waveform analysis.
 
 ![ALU Simulation Waveform](simulation/waveform.png)
+
